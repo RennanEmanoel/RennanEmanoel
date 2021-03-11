@@ -1,6 +1,6 @@
-## Olá pessoal :raised_back_of_hand:
+## Olá pessoal, tudo bem? :raised_back_of_hand: 
 
-Meu nome é Rennan Emanoel tenho 17 anos e sou um Desenvolvedor Full Stack Júnior, desde quando conheci o mundo da programação venho aumentando meus conhecimentos e estudando a fundo esse mundo incrível.
+Meu nome é Rennan Emanoel tenho 17 anos e sou um Desenvolvedor Full Stack Júnior, conheci o mundo da programação a um tempo e desde então venho aprofundando meus estudos e  aumentando meus conhecimentos nesse mundo incrível.
 
 :small_red_triangle_down: Eu criei esse GitHub para registrar meu desenvolvimento.
 
@@ -17,7 +17,7 @@ Meu nome é Rennan Emanoel tenho 17 anos e sou um Desenvolvedor Full Stack Júni
 
 ### :blue_book: Cursos
 
-**StackX** - Desenvovedor FullStack Júnior
+**StackX** - Desenvolvedor Full Stack Júnior
 
 **Digital Innovation One** - Full Stack Júnior
 
@@ -40,4 +40,6 @@ Meu nome é Rennan Emanoel tenho 17 anos e sou um Desenvolvedor Full Stack Júni
 Linkedin: [rennan-emanoel](https://www.linkedin.com/in/rennan-emanoel-2b94191b0/)
 
 Gmail: rennanemanoel386@gmail.com
+
+Telefone: [(47) 99102-6664](https://wa.me/5547991026664)
 
