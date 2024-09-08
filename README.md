@@ -1,45 +1,24 @@
-## Olá pessoal, tudo bem? :raised_back_of_hand: 
+# 👨‍💻 Tech Lead @ ConnectThink
 
-Meu nome é Rennan Emanoel tenho 17 anos e sou um Desenvolvedor Full Stack Júnior, conheci o mundo da programação a um tempo e desde então venho aprofundando meus estudos e  aumentando meus conhecimentos nesse mundo incrível.
+Olá! Meu nome é Rennan, e sou Tech Lead na **ConnectThink** com alguns anos de experiência na área de integrações. Meu foco principal é conectar sistemas de forma eficiente e inovadora, garantindo que tudo funcione perfeitamente 🚀.
 
-:small_red_triangle_down: Eu criei esse GitHub para registrar meu desenvolvimento.
+### ⚡ O que eu faço:
+- **Integrações**: Experiência sólida com APIs REST e SOAP.
+- **Low-code**: Criando soluções ágeis e flexíveis com ferramentas low-code.
+- **Resolução de Problemas**: Expert em identificar e solucionar problemas complexos 💡.
+- **JavaScript**: Conhecimento prático em JavaScript.
+- **Banco de Dados**: Conhecimento prático em MySQL.
 
+### 🎓 Formação:
+- **StackX** - Desenvolvedor Full Stack Júnior
 
+### 🌱 Outras Habilidades:
+- **Liderança Técnica**: Orientando equipes em projetos de integrações complexas.
+- **Automatizações**: Experiência em automação de processos para otimizar o workflow.
 
-### :crossed_swords: Tecnologias Conhecidas
-
-|   HTML    |      CSS       | Java Script |         Python         |
-| :-------: | :------------: | :---------: | :--------------------: |
-| **MySQL** | **Git/GitHub** |  **Java**   | **Modelagem de Dados** |
-| **Scrum** |   **Kanban**   |   **API**   |     **Bootstrap**      |
-
-
-
-### :blue_book: Cursos
-
-**StackX** - Desenvolvedor Full Stack Júnior
-
-**Digital Innovation One** - Full Stack Júnior
+### 🌐 Redes Sociais:
 
 
+### 📚 Cursos:
 
-> Além deles tenho vários outros cursos complementares.
-
-
-
-### Formação
-
-**StackX** - Formação de Profissionais Full Stack Júnior
-
-**EM** - Cursando o último ano do Ensino Médio
-
-
-
-### Redes Sociais
-
-Linkedin: [rennan-emanoel](https://www.linkedin.com/in/rennan-emanoel-2b94191b0/)
-
-Gmail: rennanemanoel386@gmail.com
-
-Telefone: [(47) 99102-6664](https://wa.me/5547991026664)
 
